@@ -3,6 +3,7 @@
 Aggiesnap
 
 #########################################################
+
 Intro To Programming Concepts and Design Final Project
 
 GUI application to upload images from file system or the web
